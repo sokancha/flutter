@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458654527919",
+    "project_id": "login-c8464",
+    "storage_bucket": "login-c8464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458654527919:android:3da798328c88d5ef533f5a",
+        "android_client_info": {
+          "package_name": "com.example.review"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3hXlmSWMkEoRwUdEasMt4SQnZaCVlco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
